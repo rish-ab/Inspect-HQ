@@ -24,7 +24,7 @@ A data-driven project that analyzes 2020–2025 risk trends from Big Four report
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/inspection-hq.git
+   git clone https://github.com/rish-ab/inspection-hq.git
    cd inspection-hq
    ```
 2. **Install Required Python Libraries**
